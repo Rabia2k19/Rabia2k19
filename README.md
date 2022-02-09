@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Rabia Kiran
-- 👀 I’m interested in Full Stack Web DEvelopment
-- 🌱 I’m currently learning React JS and Blockchain
+- 👀 I’m interested in Full Stack Web DEvelopment and Blockchain
+- 🌱 I’m currently learning React JS and Solidity
 - 💞️ I’m looking for a Software Developer Internship
